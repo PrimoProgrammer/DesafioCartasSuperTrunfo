@@ -8,7 +8,8 @@ Apresentação deste repositório de atividades:
 - Cadastro de Alunos
 - Super Trunfo Novato
 - Super Trunfo Aventureiro
-- Super Trunfo Avançado
+- Super Trunfo Mestre
+- Super_trunfo.c
 
   Espero que tenha saído bem com meus primeiros comandos.
 
